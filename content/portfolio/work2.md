@@ -1,13 +1,13 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
-title = "Name of the work 2"
+title = "キャリア不安。転職活動のススメ"
 draft = false
 image = "img/portfolio/business-card-26.jpg"
 showonlyimage = false
 weight = 1
 +++
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.
+ このままこの職場にいていいのかな？私は何を目指しているんだろう？そんなキャリアの不安を感じた、社会人３年目のお話。
 <!--more-->
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
